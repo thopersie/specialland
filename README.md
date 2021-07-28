@@ -1,2 +1,2 @@
 # specialland
- Website for introducing House management by IoT
+ Website for introducing House Management by IoT
